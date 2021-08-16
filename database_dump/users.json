@@ -1,0 +1,21 @@
+{ 
+    "_id" : ObjectId("6119f177e42b4e1ba48ce67a"), 
+    "name" : "shivank", 
+    "email" : "shivank@vartulz.com", 
+    "created_at" : ISODate("2021-08-16T05:02:47.455+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6119f1a07185d439686d2788"), 
+    "name" : "rohit", 
+    "email" : "rohit@vartulz.com", 
+    "created_at" : ISODate("2021-08-16T05:03:28.537+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6119f1aa7185d439686d278a"), 
+    "name" : "kavita", 
+    "email" : "kavita@vartulz.com", 
+    "created_at" : ISODate("2021-08-16T05:03:38.350+0000"), 
+    "__v" : NumberInt(0)
+}
